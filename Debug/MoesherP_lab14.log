@@ -1,0 +1,3 @@
+﻿  MoesherP_lab14.cpp
+c:\users\paul\desktop\moesherp_lab14\moesherp_lab14.cpp(20): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  MoesherP_lab14.vcxproj -> C:\Users\Paul\Desktop\MoesherP_lab14\Debug\MoesherP_lab14.exe
